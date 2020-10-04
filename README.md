@@ -1,12 +1,13 @@
 # 99-ML-Learning-Projects
 A list of 99 machine learning projects for anyone interested to learn machine learning from coding and building projects.
 
-Our model is provide a curated repo for anyone to contribute a cool exercise and solution that is useful for anyone (including themselves) in their journey of learning machine learning.
+Our working philosophy is to provide a curated repo for anyone to contribute a cool/fun exercise and solution that is useful for anyone (including themselves) in their journey of learning machine learning.
 
 
 ## Getting Started
 
 The format is roughly the following:
+
 1. Propose an exercise by creating an issue ticket and write what you think is an useful coding exercise for certain concepts. 
 
 2. If enough people are interested in that issue ticket, hopefully either you or someone else will write the exercise statement properly similar to the style of a lab exercise/homework question.
@@ -22,17 +23,37 @@ The format is roughly the following:
 Please abide by [code of conduct guidelines](CODE_OF_CONDUCT.md) to have an open and friendly open source collaboration.
 
 ### Goal: 99 Projects  
-### Current: 4 Projects
+### Current: 7 Projects
 
 ## Table of Contents
+#### General-Purpose Machine Learning
 
-001. [Titanic Survival Prediction](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/001/exercise)
+- [Linear Regression [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/002/exercise)
 
-002. [Linear Regression](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/002/exercise)
+- [Titanic Survival Prediction [Beginner]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/001/exercise) 
 
-003. [MNIST Handwriting Digit Recognition](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/003/exercise)
+- [Bagging and boosting ensemble methods [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/006/exercise/readme.md)
 
-004. [Text-generation neural network model (with LSTM)](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/004/exercise)
+#### Computer Vision
+- [MNIST Handwriting Digit Recognition [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/003/exercise) 
+
+
+#### Natural Language Processing
+
+- [Sentiment analysis [Intermediate]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/005/exercise) 
+
+- [Text-generation neural network model (with LSTM) [Advanced]](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/004/exercise) 
+
+#### Data Analysis / Data Visualization
+
+#### Reinforcement Learning
+
+#### Misc/Mix Models
+
+- [Employee Attrition & Performance](https://github.com/gimseng/99-ML-Learning-Projects/tree/master/007/exercise) 
+
+
+
 
 ## Dependencies
 
